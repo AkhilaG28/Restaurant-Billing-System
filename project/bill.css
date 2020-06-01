@@ -1,0 +1,87 @@
+* {
+	
+	font-family: sans-serif;
+	font-size: 25px;
+}
+body {
+	color: white;
+	background-image: url('resources/bg6.jpg');
+	background-size: cover;
+	margin: 5% 0 0 10%;
+}
+
+button {
+	background: #673AB7;
+	height: 30px;
+	border-radius: 8px;
+	margin: 1%;
+	font-size: 18px;
+}
+
+label {
+	display: block;
+}
+
+input {
+	height: 30px;
+	border-radius: 10px;
+	margin: 0 0 1% 0;
+	color: teal;
+}
+
+select {
+	border-radius: 10px;
+	background: #9C27B0;
+}
+
+.right_float {
+	float: right;
+	margin-right: 15%;
+}
+
+#total{
+    color: #F44336;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+#billed {
+	color: #9C27B0;
+	font-weight: bold;
+	margin-top: 5%;
+	width: 80%;
+}
+
+.float {
+	float: left;
+	margin-left: 3%;
+	width: 14%;
+	font-size: 20px;
+}
+
+.wide {
+	width: 40%;
+}
+
+.newline {
+	clear: both;
+}
+
+.bg {
+	font-size: 30px;
+	color: #004D40;
+}
+
+.thanku {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 2%;
+	color: #009688;
+}
+
+.visit {
+	margin-left: 45%;
+	color: white;
+}

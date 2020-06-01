@@ -1,0 +1,43 @@
+* {
+	font-size: 18px;
+	color: #004D40;
+	font-weight: bold;
+	font-family: sans-serif;
+	background-color: #B388FF;
+}
+
+#menu_top {
+	height: 40px;
+	font-size: 45px;
+	padding:  3% 40%;
+	color: white;
+	background: #311B92;
+	font-weight: bolder;
+}
+
+ul > li {
+	font-size: 30px;
+	color: #6A1B9A;
+}
+
+button {
+ 	border-radius: 8px;
+	height: 45px;
+	width: 200px;
+	background: #E0F2F1;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #004D40;
+	margin-top: 5%;
+}
+
+img {
+	width: 250px;
+	height: 250px;
+}
+
+.float {
+	width: 30%;
+	float: left;
+	margin: 1%;
+}
