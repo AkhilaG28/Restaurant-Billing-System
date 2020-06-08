@@ -1,0 +1,33 @@
+* {
+	font-family: sans-serif;
+	background-color: #E8EAF6;
+	text-align: center;
+	background-image: url(resources/bg2.jpg);
+	background-size: cover;
+}
+
+#top_bar {
+	height: 50px;
+	font-size: 45px;
+	padding:  3% 40%;
+	color: white;
+	font-weight: bolder;
+}
+
+button {
+	border-radius: 8px;
+	height: 45px;
+	width: 200px;
+	background: #E0F2F1;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #004D40;
+	margin-top: 5%;
+}
+
+#welcome {
+	color: #6200EA;
+	font-size: 30px;
+	margin: 25% 0 0 4%;
+	text-align: center;
+}
